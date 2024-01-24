@@ -1,5 +1,5 @@
-# kiefer
-Kiefer is a theme and ide for Emacs.
+# kifer
+Kifer is a theme and ide for Emacs.
 ## Checklist
 
 - [ ] Create bash script for basic .emacs.d 
